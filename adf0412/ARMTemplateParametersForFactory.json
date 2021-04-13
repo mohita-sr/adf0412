@@ -7,6 +7,9 @@
 		},
 		"AzureBlobStorageinput_connectionString": {
 			"value": ""
+		},
+		"AzureSqlDatabase_connectionString": {
+			"value": ""
 		}
 	}
 }
